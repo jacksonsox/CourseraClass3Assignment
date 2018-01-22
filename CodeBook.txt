@@ -18,4 +18,5 @@ Variables used in the data set include:
 
 - subjectNumber - experimental case study subject number
 
-- aggregated mean values aggregated by activity and subject
+- aggregated mean values aggregated by activity and subject.
+  All the initial source field meanings can be found in features_info.txt
