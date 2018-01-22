@@ -1,0 +1,21 @@
+==================================================================
+Coursera Week 3 Assignment - Codebook
+==================================================================
+jacksonSox
+
+==================================================================
+
+Variables used in the data set include:
+
+- activity - describing the activity conducted to obtain the data
+  Including:
+  1 WALKING
+  2 WALKING_UPSTAIRS
+  3 WALKING_DOWNSTAIRS
+  4 SITTING
+  5 STANDING
+  6 LAYING
+
+- subjectNumber - experimental case study subject number
+
+- aggregated mean values aggregated by activity and subject
