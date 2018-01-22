@@ -25,3 +25,4 @@ The dataset includes the following files:
   - 'class3AggregateTidyData.txt' - script output for the aggregated mean information grouped by activity and subject.
 
   - 'Assignment' - contains all input data needed from the original experimentation
+  - Note:  X_train.txt and X_test.txt are not included in set as a result of the size of the files.
